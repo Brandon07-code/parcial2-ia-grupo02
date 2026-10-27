@@ -1,0 +1,86 @@
+lote_id,vereda,horas_riego_semana,fertilizante_kg_ha,rendimiento_alto
+C001,Cauca,11,204,0
+C002,Coloradas,26,348,1
+C003,Piedras de Moler,34,264,1
+C004,Cauca,15,73,0
+C005,Zaragoza,29,281,1
+C006,Coloradas,21,344,1
+C007,Modín,36,79,1
+C008,Cauca,25,371 kg,1
+C009,Piedras de Moler,40,72,1
+C010,Cauca,13,292,1
+C011,Modín,9,178,0
+C012,Piedras de Moler,17,226,1
+C013,Coloradas,32,111,1
+C014,Modín,24,111,1
+C015,Zaragoza,37,149,1
+C016,Cauca,40,329,1
+C017,Cauca,37,343,1
+C018,Cauca,11,327,0
+C019,Piedras de Moler,26,168,1
+C020,Piedras de Moler,30,169,0
+C021,Coloradas,37,206,1
+C022,Zaragoza,10,105,0
+C023,Coloradas,26,185,1
+C024,Cauca,7,242,0
+C025,Modín,31,153,1
+C026,Piedras de Moler,25,108,0
+C027,Cauca,9,81,0
+C028,Piedras de Moler,9,209,0
+C029,Zaragoza,23,235,1
+C030,Zaragoza,22,157,1
+C031,Coloradas,24,53,0
+C032,Piedras de Moler,39,215 kg,1
+C033,Cauca,39,384,1
+C034,Piedras de Moler,15,253,1
+C035,Piedras de Moler,8,218,0
+C051,Coloradas,28,349,1
+C036,Modín,15,209,0
+C037,Zaragoza,33,166,1
+C038,Zaragoza,14,257 kg,1
+C039,Zaragoza,10,117,0
+C040,Piedras de Moler,26,362,1
+C041,Coloradas,29,209,1
+C042,Zaragoza,11,283,0
+C043,Zaragoza,7,72,0
+C044,Coloradas,11,178,0
+C045,Cauca,,103,0
+C046,Piedras de Moler,18,115,0
+C047,Cauca,25,274,1
+C073,Zaragoza,34,104,1
+C048,Coloradas,37,281,1
+C049,Modín,17,272,1
+C050,Piedras de Moler,27,165,0
+C051,Coloradas,28,349,1
+C052,Zaragoza,15,323,1
+C060,Zaragoza,18,106,0
+C053,Piedras de Moler,24,259,1
+C054,Cauca,39,181,1
+C055,Cauca,40,308,1
+C056,Coloradas,20,143,0
+C057,Zaragoza,34,132,1
+C058,Coloradas,17,60,0
+C059,Modín,33,310,1
+C060,Zaragoza,18,106,0
+C022,Zaragoza,10,105,0
+C061,Piedras de Moler,32,166,1
+C062,Coloradas,8,218,0
+C063,Modín,12,217,0
+C064,Modín,27,330,1
+C065,Modín,13,96,0
+C066,Cauca,15,268,0
+C067,Zaragoza,,233,1
+C068,Zaragoza,15,129,0
+C069,Zaragoza,16,159,0
+C070,Coloradas,34,187,1
+C071,Coloradas,,92,0
+C072,Coloradas,6,68,0
+C073,Zaragoza,34,104,1
+C074,Cauca,37,191,1
+C075,Coloradas,29,349,1
+C076,Cauca,27,154,1
+C077,Modín,36,337,1
+C078,Coloradas,24,358,1
+C079,Modín,9,129,0
+C080,Cauca,18,338,1
+TOTAL,,1867.0,16421.0,
